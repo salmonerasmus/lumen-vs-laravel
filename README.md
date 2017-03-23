@@ -1,20 +1,7 @@
-<style type="text/css">
-	table.tableizer-table {
-		font-size: 12px;
-		border: 1px solid #CCC; 
-		font-family: Arial, Helvetica, sans-serif;
-	} 
-	.tableizer-table td {
-		padding: 4px;
-		margin: 3px;
-		border: 1px solid #CCC;
-	}
-	.tableizer-table th {
-		background-color: #104E8B; 
-		color: #FFF;
-		font-weight: bold;
-	}
-</style>
+Mar 2017 - Comparison between Lumin and Laravel functionality.
+
+I am briefly doing a comparison between Lumin and Laravel below. I had to do it so though I'd share it on here.
+
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th>Laravel</th><th>Lumen</th></tr></thead><tbody>
  <tr><td>Core Concepts</td><td>&nbsp;</td></tr>
@@ -75,3 +62,9 @@
  <tr><td>Queues</td><td>Queues</td></tr>
  <tr><td>Scheduled Tasks</td><td></td></tr>
 </tbody></table>
+
+For more information please have a look at the official documentation.
+
+https://lumen.laravel.com/docs
+
+https://laravel.com/
