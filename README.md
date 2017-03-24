@@ -3,7 +3,7 @@ Mar 2017 - Comparison between Lumin and Laravel functionality.
 I am briefly doing a comparison between Lumin and Laravel below. I had to do it so though I'd share it on here.
 
 <table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th>Laravel</th><th>Lumen</th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow"><th>Laravel 5.4</th><th>Lumen 5.4</th></tr></thead><tbody>
  <tr><td>Core Concepts</td><td>&nbsp;</td></tr>
  <tr><td>Service Container</td><td>Service Container</td></tr>
  <tr><td>Service Providers</td><td>Service Providers</td></tr>
